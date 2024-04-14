@@ -18,7 +18,7 @@ function App() {
 
   return (
     <main>
-      {win ? <p>you win</p> : <p>type A</p>}
+      {win ? <p>you win</p> : <h1>TYPE A</h1>}
     </main>
   );
 }
